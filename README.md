@@ -13,7 +13,7 @@ Ein Discord Bot, der automatisch Benachrichtigungen sendet, wenn ausgewählte Tw
 - ✅ Slash-Commands zum Verwalten von Streamern
 - ✅ Rollen-Ping bei neuen Streams
 - ✅ Rollenbasierte Berechtigungen
-- ✅ Commands Wie /addstreamer [Twitch Name] (Fügt ein Twitch Kanal Hinzu), /removestreamer [Twitch Name] (Entfernt ein Twitch Kanal), /streamer (Zeigt die Streamer Liste an)
+- ✅ Commands Wie /addstreamer [Twitch Name] (Fügt ein Twitch Kanal Hinzu), /removestreamer [Twitch Name] (Entfernt ein Twitch Kanal), /streamers (Zeigt die Streamer Liste an)
 - ✅ Automatische Speicherung der Streamer-Liste
 
 ## 📸 Vorschau
