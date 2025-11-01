@@ -20,11 +20,6 @@ Ein Discord Bot, der automatisch Benachrichtigungen sendet, wenn ausgewählte Tw
 
 Der Bot sendet Benachrichtigungen wie diese:
 
-```
-<img width="847" height="759" alt="Screenshot 2025-11-01 182947" src="https://github.com/user-attachments/assets/59e95fad-81d7-46ed-ae2b-6d8fbcb1306e" />
-
-```
-
 ## 🚀 Installation
 
 ### Voraussetzungen
