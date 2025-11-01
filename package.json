@@ -1,7 +1,7 @@
 {
   "name": "content",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ein Discord Bot, der automatisch Benachrichtigungen sendet, wenn ausgewählte Twitch-Streamer live gehen.",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
