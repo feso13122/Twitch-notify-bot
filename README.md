@@ -18,6 +18,8 @@ Ein Discord Bot, der automatisch Benachrichtigungen sendet, wenn ausgewählte Tw
 
 ## 📸 Vorschau
 
+https://i.imgur.com/BUpXTu2.png
+
 Der Bot sendet Benachrichtigungen wie diese:
 
 ## 🚀 Installation
